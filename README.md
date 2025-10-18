@@ -43,7 +43,6 @@ Real-world mobile app testing for sports community platform.
 - Reduced regression testing time by 60% through automation
 
 ## Certifications
-- ISTQB Foundation Level Certified
 - Selenium WebDriver Certification
 
 ## Contact
