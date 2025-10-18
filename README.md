@@ -37,7 +37,7 @@ Real-world mobile app testing for sports community platform.
 
 ## Experience
 
-**QA Engineer** | Ericsson | 2019-2024
+**QA Engineer** | 2019-2024
 - Performed API integration testing for third-party systems
 - Implemented contract testing strategies
 - Reduced regression testing time by 60% through automation
