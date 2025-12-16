@@ -409,6 +409,13 @@
             color: var(--text-soft);
             margin-bottom: 1.4rem;
         }
+        /* Prevent solid background bar over hero text in light mode */
+.hero-role,
+.hero-description,
+.hero a,
+.hero a:visited {
+    background-color: transparent !important;
+}
 
         .hero-description {
             font-size: 0.98rem;
